@@ -1,6 +1,4 @@
-﻿using System.Diagnostics.Metrics;
-
-int number = 4566;
+﻿int number = 4566;
 string numberAsString = number.ToString();
 char[] letters = numberAsString.ToArray();
 
